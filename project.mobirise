@@ -293,7 +293,9 @@
     "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/USER/OneDrive/Documents"
   },
   "pages": {
     "index.html": {
